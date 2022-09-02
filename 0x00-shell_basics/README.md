@@ -1,1 +1,1 @@
-Display current directory contents, including hidden files
+reate a script that copies all the HTML files
